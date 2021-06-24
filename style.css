@@ -1,0 +1,110 @@
+
+.control{
+padding: 20px;
+background-color:#ffe6e6;
+text-align: center;
+}
+
+button{
+text-align:center;
+Width:25%;
+}
+
+.forward {
+  border: 2px solid ;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-color: #4040bf;
+  color: #4040bf;
+}
+
+.forward:hover {
+  background-color: #4040bf;
+  color: white;
+}
+.right {
+padding-right:50px;
+ border: 2px solid ;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-color: #4040bf;
+  color: #4040bf;
+}
+
+.right:hover {
+  background-color: #4040bf;
+  color: white;
+}
+
+.left {
+ border: 2px solid ;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-color: #4040bf;
+  color: #4040bf;
+}
+
+.left:hover {
+  background-color: #4040bf;
+  color: white;
+}
+.backward {
+margin: 10px;
+ border: 2px solid ;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-color: #4040bf;
+  color: #4040bf;
+}
+
+.backward:hover {
+  background-color: #4040bf;
+  color: white;
+}
+
+.stop {
+margin: 10px;
+ border: 2px solid ;
+  border-radius: 5px;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  border-color: #ffd9b3;
+  color: #ffd9b3;
+}
+
+.stop:hover {
+  background: #ffd9b3;
+  color: white;
+}
+
+body {
+  background-image: url('robot.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: 100% 100%;
+  }
+footer{
+background-color:#ffe6e6;
+text-align: center;
+padding:0px;
+
+}
